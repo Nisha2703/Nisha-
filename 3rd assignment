@@ -1,0 +1,47 @@
+<!doctype.html>
+<html>
+  <head>
+    <title>Menu</title>
+    <style>
+    .main{
+    backround-size: 100%;
+      
+    }
+    .class
+    {
+    background-color: grey;
+    height: 25%;
+    width: 30%;
+    }
+    .c
+    {
+    background-color: grey;
+    height: 25%;
+    width: 30%;
+    }
+    .cl
+    {
+    background-color: grey;
+    height: 25%;
+    width: 30%;
+    }
+    </style>
+  </head>
+  <body>
+  <div class="main">
+    <h1 align="Center">Our Menu</h1>
+    <div class="class">
+      <h align="left" style="background-color: pink; height: 2px; width: 5px; border: 1px;">Chicken</h>
+      <p>LOREM</p>
+    </div><br><br>
+    <div class="c">
+        <h align="left" style="background-color: red; height: 2px; width: 5px; border: 1px;">Beef</h>
+      <p>Lorem</p>
+    </div><br><br>
+    <div class="cl">
+      <h align="left" style="background-color: Yellow; height: 2px; width: 5px; border: 1px;">Sushi</h>
+      <p>LOREM</p>
+    </div><br><br>
+    <div>
+  </body>
+</html>
