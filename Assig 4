@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title> If-else</title>
+</head>
+<body>
+<script style="javascript/text">
+var names=["Jack","John","Andy","Josefh","Ram","Sam","Tom"];
+var firstletter = names[i];
+if(firstlatter=="j")
+{
+document.write("Goodbye jsomeone");
+}
+else
+{
+document.write("Hello someone");
+}
+</script>
+</body>
+</head>
