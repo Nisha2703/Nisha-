@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>Web Site</title>
+<style>
+.id
+{
+background-color: grey;
+background-size: cover;
+}
+</style>
+</head>
+<body>
